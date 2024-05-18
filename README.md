@@ -1,8 +1,9 @@
 # Whiskers
 
-<img src="whiskers.svg" width="180">
-<img src="whiskers_outline.svg" width="180">
-
+<p float="left">
+    <img src="whiskers.svg" width="180">
+    <img src="whiskers_outline.svg" width="180">
+</p>
 An alternative application icon for [Kitty](https://sw.kovidgoyal.net/kitty/) terminal emulator.
 Works best if modern MacOS-like icons and whiskers on kittens are a few of your favorite things.
 
